@@ -16,7 +16,6 @@ function changeMe(arr) {
   } else {
     for (var i=0; i<arr.length; i++)
     {
-      arrhasil.push()
       obj = {}
       
         obj.firstName = arr[i][0]
